@@ -1,0 +1,8 @@
+#e=commerce
+1.create an e commerce projewct where the user can register and log in himself  DONE
+2.he can see all the products that are present---- the products conatin [Name,Prioce,Category,stock_left] ##homepage
+3.from these products iser can place an order just by the [roduct name and the quantity he wants to purchase
+4.once he enters that a bill should be generated with the total amount and a message written and a message "order had been placed complete the paymetn on the delivery"
+5.The change of the stock should be reflected on the list of products
+while generating the bill username should be chechked
+user should be able to check his past orders
